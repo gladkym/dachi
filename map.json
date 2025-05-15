@@ -1,0 +1,56 @@
+[
+  {
+    "coordinates": "55.7558,37.6176",
+    "area": 17.34,
+    "plot_number": "A123",
+    "plot_price": 6000000,
+    "price_per_hundred_sqm": 500000,
+    "id": "C789",
+    "available": "Свободен"
+  },
+  {
+    "coordinates": "55.7050,37.5942",
+    "area": 17.34,
+    "plot_number": "B456",
+    "plot_price": 4000000,
+    "price_per_hundred_sqm": 500000,
+    "id": "C789",
+    "available": "Продан"
+  },
+  {
+    "coordinates": "55.7050,37.5942",
+    "area": 17.34,
+    "plot_number": "B456",
+    "plot_price": 4000000,
+    "price_per_hundred_sqm": 500000,
+    "id": "25",
+    "available": "Продан"
+  },
+  {
+    "coordinates": "55.8000,37.6500",
+    "area": 17.34,
+    "plot_number": "C789",
+    "plot_price": 7500000,
+    "price_per_hundred_sqm": 500000,
+    "id": "B456",
+    "available": "Забронирован"
+  },
+  {
+    "coordinates": "55.7800,37.6000",
+    "area": 17.34,
+    "plot_number": "D012",
+    "plot_price": 5500000,
+    "price_per_hundred_sqm": 550000,
+    "id": "C789",
+  "available": "Продан"
+  },
+  {
+    "coordinates": "55.7300,37.5700",
+    "area": 900,
+    "plot_number": "E345",
+    "plot_price": 4950000,
+    "price_per_hundred_sqm": 550000,
+    "id": "C789",
+  "available": true
+  }
+]
